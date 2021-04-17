@@ -100,3 +100,26 @@ img {
   background: #333;
   transition: all 200ms ease;
 }
+
+
+
+
+
+#container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
+
+#sidebar {
+  width: 33%;
+  padding: 20px;
+}
+
+main {
+  width: 65%;
+}
+
+main article {
+  margin-bottom: 80px;
+}
